@@ -1,4 +1,3 @@
-build.exe
 *.sln
 *.userprefs
 *.csproj
@@ -10,4 +9,3 @@ build.exe
 /Temp
 /Builds
 /build/
-build_Data/*
